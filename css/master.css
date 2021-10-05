@@ -112,7 +112,7 @@ header .link nav a:hover{
 
 /*content*/
 .landing{
-  background-image: url('/media/sea.jpg');
+  background-image: url('https://mohammed-zaky.github.io/Elzero1/media/sea.jpg');
   width: 100vw;
   height: 100vh;
   display: flex;
